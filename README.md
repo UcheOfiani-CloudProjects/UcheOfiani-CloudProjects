@@ -19,9 +19,20 @@ Welcome to my GitHub! I'm a passionate Cloud Engineer with a strong focus on AWS
 🎓 Certifications
 - AWS Certified Solutions Architect – Associate
   
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect--Associate-FF9900)
+![image](https://github.com/user-attachments/assets/e9e3fe47-219f-4ff0-92cd-18475439d6ed)
 
-- Certified in Cloud Computing Fundamentals
+- AWS Certified Cloud Practitioner
+
+![image](https://github.com/user-attachments/assets/0de83fc5-a587-499f-879f-93f00969f706)
+
+- Cisco Introduction to CyberSecurity
+
+![image](https://github.com/user-attachments/assets/cb382a88-1159-40f2-a130-96a01c9e867a)
+
+AWS Cloud Quest - Cloud Practitioner
+
+![image](https://github.com/user-attachments/assets/05d85720-af74-4061-a237-e8c200440d80)
+
 
 💼 Technical Skills
 - Cloud Platforms: AWS (EC2, S3, VPC, EKS, RDS, CloudFront, IAM)
