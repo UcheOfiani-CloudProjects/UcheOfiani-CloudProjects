@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm a passionate Cloud Engineer with a strong focus on AWS
 
 🎓 Certifications
 - AWS Certified Solutions Architect – Associate
+  
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect--Associate-FF9900)
 
 - Certified in Cloud Computing Fundamentals
 
