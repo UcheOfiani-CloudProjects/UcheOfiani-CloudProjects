@@ -46,6 +46,15 @@ Implemented automated workflows for deploying microservices to a Kubernetes clus
 Hosted a static website on S3 with CloudFront distribution and secured with Origin Access Control (OAC).
 Focused on implementing best security practices for static sites.
 
+🎯 2025 Goals
+- Build and contribute to real-world cloud engineering projects.
+
+- Obtain the AWS Certified DevOps Engineer certification.
+
+- Master advanced Kubernetes and Infrastructure Automation.
+
+- Land a Cloud Engineer role abroad and grow your career globally.
+
 📧 Email: ucheofiani@gmail.com
 
 - 😄 Pronouns: SHE/HER
@@ -53,6 +62,6 @@ Focused on implementing best security practices for static sites.
 - ⚡ Fun fact: I love travelling and spend my free time browsing potential trips and watching Kdrama. 
 
 <!---
-UcheOfiani-CloudProjects/UcheOfiani-CloudProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UcheOfiani-CloudProjects/UcheOfiani-CloudProjects is a ✨ special ✨ repository because its `Readme.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
